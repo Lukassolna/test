@@ -1,0 +1,11 @@
+CREATE TABLE SEB (
+    date DATE,
+    close NUMERIC,
+    Change NUMERIC,
+    Up NUMERIC,
+    Down NUMERIC,
+    Av_up NUMERIC,
+    Av_down NUMERIC,
+    Relative NUMERIC,
+    RSI NUMERIC
+);
